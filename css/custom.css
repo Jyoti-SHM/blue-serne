@@ -1,0 +1,6 @@
+.post-list .post-list-bg{
+    height: calc(100% + 80px);
+}
+.post-list .post-list-wrapper{
+    padding: 0 0 60px 0;
+}

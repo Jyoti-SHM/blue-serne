@@ -147,11 +147,12 @@ background-image: url(../img/about/team/3.jpg);
 .carousel-item-team-04 {
 background-image: url(../img/about/team/4.jpg);
 }
-
+.blog-tag{color: #a34100 !important;}
+.post-wrapper .post-content h2{color: #e5b525;}
 
 /* 1.4. rooms IMG BACKGROUND */
 .rooms-bg {
-background-image: url(../img/rooms/rooms-intro/1.jpg);
+background-image: url(../images/DeluxeRoom/DR1.jpg);
 }
 
 .rooms-bg-1 {
@@ -171,13 +172,14 @@ background-image: url(../images/PremiumRoom/PR2.jpg);
 }
 
 .rooms-bg-5 {
-background-image: url(../img/rooms/5.jpg);
+background-image: url(../images/PremiumRoom/PR3.jpg);
 }
 
+.room-amenities{    max-width: 1435px;}
 
 /* 1.5. facilities IMG BACKGROUND */
 .restaurant-bg {
-background-image: url(../img/facilities/restaurant/1.jpg);
+background-image: url(../images/Property/facil-restaurent.jpg);
 }
 
 .spa-bg {
@@ -194,6 +196,28 @@ background-image: url(../img/facilities/pool/1.jpg);
 
 .facilities-bg-1 {
 background-image: url(../images/Property/banquet.jpg);
+}
+.restraunt-sub-bg{
+  background-image: url(../images/na1.jpg);
+}
+.na-bg-1{
+  background-image: url(../images/na2.jpg);
+}
+.na-bg-2{
+  background-image: url(../images/na3.jpg);
+}
+.na-bg-3{
+  background-image: url(../images/na4.jpg);
+}
+.na-bg-4{
+  background-image: url(../images/na5.jpg);
+}
+.na-bg-5{
+  background-image: url(../images/na6.jpg);
+}
+.dropdown-menu li>a:hover{
+  /* background-color: #e5b525 !important; */
+  color: #e5b525 !important;
 }
 
 .facilities-bg-2 {
@@ -213,7 +237,7 @@ background-image: url(../images/Property/spa.jpg);
 
 /* 1.6. gallery IMG BACKGROUND */
 .gallery-bg {
-background-image: url(../img/gallery/1.jpg);
+background-image: url(../images/Property/facil-conferance.jpg);
 }
 
 
@@ -685,7 +709,7 @@ color: #5f5f5f;
   }
 }
 
-.navbar-nav .active a {
+.navbar-nav .active>a {
 color: #e5b525 !important;
 background: none;
 text-decoration: none;
@@ -731,7 +755,7 @@ height: 80px;
 .main-navigation .navbar-nav li .dropdown-menu a {
 font-size: 11px;
 color: #5f5f5f;
-padding: 25px 15px 0 15px;
+padding: 15px 15px 0 15px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -2297,6 +2321,7 @@ display: grid;
 .item-wrapper {
 display: flex;
 align-items: baseline;
+padding-bottom: 40px;
 }
 
 .item-name {
@@ -5323,6 +5348,7 @@ margin: -5px auto;
 
 .blog-tag.blog-tag-rooms {
 text-align: left;
+color: #e5b525;
 }
 
 .blog-tag.blog-tag-rooms span {
