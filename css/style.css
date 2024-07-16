@@ -148,7 +148,7 @@ background-image: url(../img/about/team/3.jpg);
 background-image: url(../img/about/team/4.jpg);
 }
 .blog-tag{color: #a34100 !important;}
-.post-wrapper .post-content h2{color: #e5b525;}
+.post-wrapper .post-content h2{color: #312f92;}
 
 /* 1.4. rooms IMG BACKGROUND */
 .rooms-bg {
@@ -219,8 +219,8 @@ background-image: url(../images/Property/banquet.jpg);
   background-image: url(../images/na6.jpg);
 }
 .dropdown-menu li>a:hover{
-  /* background-color: #e5b525 !important; */
-  color: #e5b525 !important;
+  /* background-color: #312f92 !important; */
+  color: #312f92 !important;
 }
 
 .facilities-bg-2 {
@@ -406,12 +406,12 @@ font-weight: bold;
 }
 
 ::-moz-selection {
-background: #e5b525;
+background: #312f92;
 color: #fff;
 }
 
 ::selection {
-background: #e5b525;
+background: #312f92;
 color: #fff;
 }
 
@@ -713,7 +713,7 @@ color: #5f5f5f;
 }
 
 .navbar-nav .active>a {
-color: #e5b525 !important;
+color: #312f92 !important;
 background: none;
 text-decoration: none;
 }
@@ -974,7 +974,7 @@ cursor: pointer;
 font-size: 16px;
 text-align: center;
 color: #fff;
-background: #111;
+background: #312f92;
         opacity: 0;
    -moz-opacity: 0;
 -webkit-opacity: 0;
@@ -5351,7 +5351,7 @@ margin: -5px auto;
 
 .blog-tag.blog-tag-rooms {
 text-align: left;
-color: #e5b525;
+color: #312f92;
 }
 
 .blog-tag.blog-tag-rooms span {
@@ -6260,7 +6260,7 @@ color: #fff!important;
 .blog-quote p span {
 font-family: 'Montserrat', sans-serif;
 font-weight: 800;
-color: #e5b525!important;
+color: #312f92!important;
 -webkit-text-stroke: unset!important;
         text-stroke: unset!important;
 }
