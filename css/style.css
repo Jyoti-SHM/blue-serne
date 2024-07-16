@@ -152,11 +152,11 @@ background-image: url(../img/about/team/4.jpg);
 
 /* 1.4. rooms IMG BACKGROUND */
 .rooms-bg {
-background-image: url(../images/DeluxeRoom/DR1.jpg);
+background-image: url(../images/DeluxeRoom/DR2.jpg);
 }
 
 .rooms-bg-1 {
-background-image: url(../images/DeluxeRoom/DR1.jpg);
+background-image: url(../images/DeluxeRoom/DR3.jpg);
 }
 
 .rooms-bg-2 {
@@ -173,6 +173,9 @@ background-image: url(../images/PremiumRoom/PR2.jpg);
 
 .rooms-bg-5 {
 background-image: url(../images/PremiumRoom/PR3.jpg);
+}
+.rooms-bg-6 {
+background-image: url(../images/DeluxeRoom/DR2.jpg);
 }
 
 .room-amenities{    max-width: 1435px;}
