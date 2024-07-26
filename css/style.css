@@ -237,6 +237,9 @@ background-image: url(../images/Property/kids-play-area.jpg);
 .facilities-bg-5 {
 background-image: url(../images/Property/spa.jpg);
 }
+.facilities-bg-6 {
+background-image: url(../images/executivesuite/ESR.jpeg);
+}
 
 /* 1.6. gallery IMG BACKGROUND */
 .gallery-bg {
@@ -4989,7 +4992,7 @@ margin: -15px 0 -37px 0;
 
 /* parallax */
 .parallax {
-padding: 130px 0;
+padding: 200px 0;
 }
 
 @media all and (min-width: 1920px) {
